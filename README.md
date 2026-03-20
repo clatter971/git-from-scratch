@@ -8,15 +8,32 @@ A hands-on, interactive course for learning Git and GitHub from the ground up. E
 - Git installed (`git --version`)
 - A GitHub account
 - GitHub CLI installed (`gh --version`)
-- Claude Code (for guided lab walkthroughs)
+- Claude Code (optional, for interactive guided walkthroughs)
 
 ## How to Use This Course
 
-1. **Read the lesson** -- each module's `lesson.md` gives you the concept in plain language
-2. **Watch the video** -- short, visual explanations reinforce what you read
-3. **Do the lab** -- run `bash setup.sh` to create a practice scenario, then follow the exercises
-4. **Use `/lab`** -- run the slash command in Claude Code for interactive, guided walkthroughs
-5. **Track progress** -- check off modules in `progress.md` as you complete them
+### With Claude Code (recommended)
+
+1. Open this folder in Claude Code: `claude` in `~/github/git-from-scratch/`
+2. Run `/lab` to start a guided walkthrough of your next module
+3. Claude reads your progress, explains concepts, walks you through exercises step by step, and marks modules complete when you're done
+4. Jump to a specific module: `/lab 04`
+
+### Without Claude Code
+
+Each lab is fully self-contained -- you don't need Claude to follow along:
+
+1. **Read the lesson** -- open `curriculum/<part>/<module>/lesson.md` for the concept explanation and video links
+2. **Run the setup** -- `bash curriculum/<part>/<module>/setup.sh` creates a practice repo in `/tmp/`
+3. **Follow the exercises** -- open `lab.md` in the same folder and work through the numbered steps
+4. **Check your work** -- each lab has a "Verify" section telling you how to confirm success
+5. **Track progress** -- check off completed modules in `progress.md`
+
+Example for Module 01:
+```bash
+bash curriculum/part-1-foundations/01-what-is-git/setup.sh
+# then open curriculum/part-1-foundations/01-what-is-git/lab.md and follow along
+```
 
 ## Curriculum
 

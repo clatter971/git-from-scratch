@@ -36,3 +36,11 @@ One important pattern: when you start work on an issue, create a branch named af
 
 - [GitHub Docs -- About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) -- official guide to creating, labeling, and managing issues.
 - [GitHub Docs -- About Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) -- how to use the newer Projects (v2) boards for planning.
+
+## Quick Quiz
+
+1. What happens when you merge a PR that has "Fixes #42" in its description?
+2. What are labels used for on GitHub Issues?
+3. Why is it a good practice to name your branch after the issue you are working on?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

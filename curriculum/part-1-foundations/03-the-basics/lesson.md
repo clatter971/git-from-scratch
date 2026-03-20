@@ -42,3 +42,11 @@ Commits should be **atomic** -- each commit should represent one logical change.
 
 - [Pro Git Book -- Chapter 2: Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) -- covers initializing repos, recording changes, viewing history, and undoing things.
 - [Atlassian -- Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes) -- clear tutorial on `git add`, `git commit`, `.gitignore`, and `git stash`.
+
+## Quick Quiz
+
+1. What is the difference between `git diff` and `git diff --staged`?
+2. If you modify a file, stage it with `git add`, then modify it again -- what happens when you commit?
+3. Why should commits be "atomic" (one logical change per commit)?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

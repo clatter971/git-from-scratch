@@ -36,3 +36,11 @@ Here is the analogy: imagine you and a coworker are both writing chapters for a 
 ## Interactive Practice
 
 - [Learn Git Branching](https://learngitbranching.js.org/) -- the "Ramping Up" section has excellent visual exercises for rebase. Seeing commits move in real time makes the concept click.
+
+## Quick Quiz
+
+1. How does the resulting history from a rebase differ from a merge?
+2. What is the "golden rule" of rebasing?
+3. Name one thing interactive rebase (`git rebase -i`) can do to clean up commits.
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

@@ -34,3 +34,11 @@ GitHub has two systems for this: **classic branch protection rules** and the new
 
 - [GitHub Docs -- About Protected Branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) -- official reference for all branch protection settings.
 - [GitHub Docs -- About Rulesets](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets) -- guide to the newer rulesets system and how it differs from classic protection.
+
+## Quick Quiz
+
+1. Why should you prevent direct pushes to `main`, even if you are the only developer?
+2. What happens if you try to `git push` directly to a branch that has protection rules?
+3. Name two things branch protection can require before a PR is allowed to merge.
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

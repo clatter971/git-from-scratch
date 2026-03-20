@@ -35,3 +35,11 @@ A few practical details: when you push a branch for the first time, you use `git
 
 - [GitHub Docs -- Creating a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) -- official step-by-step guide.
 - [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow) -- the lightweight workflow built around branches and pull requests.
+
+## Quick Quiz
+
+1. What does the `-u` flag do in `git push -u origin <branch>`?
+2. What is the difference between a branch-based and a fork-based PR workflow?
+3. Why is code review through PRs valuable, even if you are confident in your changes?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

@@ -36,3 +36,11 @@ There is a spectrum of "undo" in git, ranging from least destructive to most. Un
 
 - [Pro Git -- Undoing Things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things) -- official coverage of unstaging, unmodifying, and undoing commits.
 - [Atlassian -- Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes) -- tutorial covering reset, revert, and checkout with clear diagrams.
+
+## Quick Quiz
+
+1. What is the difference between `git reset --soft` and `git reset --hard`?
+2. When should you use `git revert` instead of `git reset`?
+3. What is `git reflog` and why is it called your "safety net"?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

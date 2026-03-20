@@ -37,3 +37,11 @@ The most impressive detective tool is `git bisect`. When you know something is b
 
 - [Pro Git -- Debugging with Git](https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git) -- covers bisect, blame, and other investigative tools.
 - [Atlassian -- Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick) -- when and how to use cherry-pick effectively.
+
+## Quick Quiz
+
+1. When would you use `git cherry-pick` instead of merging an entire branch?
+2. What information does `git blame` show for each line of a file?
+3. How does `git bisect` find the commit that introduced a bug?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

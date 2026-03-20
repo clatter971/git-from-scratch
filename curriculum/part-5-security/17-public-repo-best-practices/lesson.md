@@ -34,3 +34,11 @@ Before going public, run a thorough audit: search the history for secrets with `
 
 - [GitHub Docs -- Best practices for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories) -- official checklist for well-maintained repositories.
 - [GitHub Docs -- Removing sensitive data from a repository](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) -- step-by-step guide to cleaning secrets from git history.
+
+## Quick Quiz
+
+1. If you delete a file that contains a secret and commit the deletion, is the secret still accessible?
+2. Does adding `.env` to `.gitignore` remove a `.env` file that was already committed?
+3. What is the only way to truly remove a secret from git history?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

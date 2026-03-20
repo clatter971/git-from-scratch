@@ -38,3 +38,11 @@ The convention for naming tags is **semantic versioning**: `vMAJOR.MINOR.PATCH` 
 
 - [Pro Git -- Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging) -- comprehensive coverage of lightweight vs. annotated tags, listing, and sharing.
 - [GitHub -- Managing Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) -- how to create and manage releases on GitHub.
+
+## Quick Quiz
+
+1. What is the difference between a lightweight tag and an annotated tag?
+2. Does `git push` automatically push your tags to GitHub?
+3. What is the relationship between a git tag and a GitHub Release?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

@@ -34,3 +34,11 @@ SECURITY.md is a simple but important file that tells people how to report vulne
 
 - [GitHub Docs -- About Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) -- how Dependabot detects and reports vulnerable dependencies.
 - [GitHub Docs -- About secret scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning) -- how GitHub detects leaked credentials in your repositories.
+
+## Quick Quiz
+
+1. What does Dependabot do when it finds a vulnerable dependency in your project?
+2. What is the difference between secret scanning and push protection?
+3. Why should your repository have a SECURITY.md file?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

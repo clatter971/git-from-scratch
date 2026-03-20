@@ -34,3 +34,11 @@ Finally, review your active sessions and authorized OAuth apps periodically. Eve
 
 - [GitHub Docs -- Securing your account with 2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) -- official guide to enabling and managing two-factor authentication.
 - [GitHub Docs -- About authentication to GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github) -- overview of all authentication methods (SSH, PATs, OAuth, SAML).
+
+## Quick Quiz
+
+1. Why is 2FA with an authenticator app more secure than SMS-based 2FA?
+2. With SSH keys, does your private key ever get sent to GitHub?
+3. What should you do with Personal Access Tokens you no longer use?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

@@ -34,3 +34,11 @@ A practical pattern: most repositories have at least one workflow that runs test
 
 - [GitHub Docs -- Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) -- official explanation of events, jobs, steps, and how they fit together.
 - [GitHub Docs -- Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart) -- step-by-step guide to creating your first workflow.
+
+## Quick Quiz
+
+1. Where do GitHub Actions workflow files live in a repository?
+2. What are the three layers of a workflow?
+3. Do workflow jobs run on your local machine or somewhere else?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

@@ -44,3 +44,11 @@ Conflicts are not errors. They are git asking for your opinion. They happen all 
 
 - [Pro Git -- Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) -- covers fast-forward merges, three-way merges, and conflict resolution with diagrams.
 - [Atlassian -- Git Merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge) -- practical guide with clear explanations of merge strategies.
+
+## Quick Quiz
+
+1. What is the difference between a fast-forward merge and a three-way merge?
+2. In a conflicted file, what does the content between `<<<<<<< HEAD` and `=======` represent?
+3. After editing a conflicted file to resolve it, what two commands do you run to finish the merge?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

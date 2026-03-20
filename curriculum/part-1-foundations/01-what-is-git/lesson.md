@@ -35,3 +35,11 @@ The three areas are where the magic happens. Picture it like packing a box:
 
 - [Pro Git Book -- Chapter 1: Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) -- the definitive free book on git. Chapter 1 covers the history and core concepts.
 - [GitHub Docs -- About Git](https://docs.github.com/en/get-started/using-git/about-git) -- GitHub's concise introduction to what git is and how it works.
+
+## Quick Quiz
+
+1. What is the difference between the working directory and the staging area?
+2. If you modify a file but never run `git add`, will the change be included in the next commit?
+3. What makes git "distributed" -- what does every developer have on their own machine?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

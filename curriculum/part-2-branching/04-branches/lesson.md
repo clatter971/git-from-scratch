@@ -40,3 +40,11 @@ One more concept to understand: **HEAD**. HEAD is git's "you are here" marker. I
 ## Interactive Practice
 
 - [Learn Git Branching](https://learngitbranching.js.org/) -- a visual, interactive tutorial that lets you practice branching and merging in your browser. Highly recommended alongside the lab exercises.
+
+## Quick Quiz
+
+1. What is HEAD in git?
+2. Does `git branch feature-x` switch you to the new branch, or do you need a separate command?
+3. Why is creating a branch in git so fast compared to older version control systems?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

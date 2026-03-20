@@ -42,3 +42,11 @@ The **GitHub CLI** (`gh`) is a command-line tool that lets you interact with Git
 
 - [GitHub Docs -- Set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git) -- official guide to installing and configuring git.
 - [GitHub Docs -- Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) -- step-by-step guide to generating keys and adding them to your account.
+
+## Quick Quiz
+
+1. Why does the email in your git config need to match your GitHub account email?
+2. If you set a value in both `--global` and `--local` config, which one wins?
+3. Why are SSH keys considered more secure than typing a password for every push/pull?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

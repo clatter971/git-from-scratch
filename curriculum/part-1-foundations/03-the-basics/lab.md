@@ -28,20 +28,29 @@ git log --oneline
 
 ### 2. Create a new file
 
-Create a file called `app.py` with a simple print statement. Then run `git status` -- notice it shows as "untracked." Git sees the file but is not tracking it yet.
+Create a file called `app.py` with a simple print statement.
 
 ```bash
 printf '%s\n' 'def main():' '    print("Hello, world!")' '' 'if __name__ == "__main__":' '    main()' > app.py
+```
 
+**Predict:** Before we run `git status` -- what state will `app.py` show up as? Modified, staged, or something else?
+
+```bash
 git status
 ```
 
 ### 3. Stage the file
 
-Run `git add app.py` then `git status`. The file moves from "untracked" to "staged" -- it is now in the box, ready to be sealed.
+Put `app.py` into the staging area -- think of it as placing the file into the box, ready to be sealed.
 
 ```bash
 git add app.py
+```
+
+**Predict:** Before we run `git status` -- where will `app.py` appear now? Still untracked, or somewhere else?
+
+```bash
 git status
 ```
 
@@ -74,10 +83,15 @@ git diff
 
 ### 7. Stage selectively
 
-Add only `app.py` -- not `utils.py`. Then check the status. Notice one file is staged and one is still untracked. This is the power of selective staging.
+Add only `app.py` -- not `utils.py`. This is selective staging: you choose exactly what goes into each commit.
 
 ```bash
 git add app.py
+```
+
+**Predict:** Before we check the status -- what will the state of each file be? Think about `app.py` (which we just added) vs `utils.py` (which we did not).
+
+```bash
 git status
 ```
 

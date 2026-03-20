@@ -34,10 +34,15 @@ The file `oops.txt` was staged by accident. Remove it from the staging area with
 
 ```bash
 git restore --staged oops.txt
+```
+
+**Predict:** Before we run `git status` -- where will `oops.txt` appear now? Will it be gone, untracked, or still staged?
+
+```bash
 git status
 ```
 
-You should see that `oops.txt` moved from "Changes to be committed" to "Untracked files." The file still exists on disk -- you just told git not to include it in the next commit.
+The file still exists on disk -- you just told git not to include it in the next commit.
 
 ### 3. Discard working directory changes
 
@@ -45,23 +50,34 @@ You have modifications to `main.py` that you don't want. Throw them away and rev
 
 ```bash
 git restore main.py
+```
+
+**Predict:** Before we run `git diff` -- what do you think it will show?
+
+```bash
 git diff
 ```
 
-`git diff` should show no output -- the working directory matches the last commit again.
-
 ### 4. Soft reset -- undo a commit but keep changes staged
 
-The last commit has a bad message. Undo it with a soft reset, which keeps all the changes staged.
+The last commit has a bad message. First, check the current log to see what will change:
 
 ```bash
 git log --oneline
+```
+
+Now undo the last commit with a soft reset:
+
+```bash
 git reset --soft HEAD~1
+```
+
+**Predict:** Before we check -- what happened to the changes from that commit? Are they gone, unstaged, or still staged?
+
+```bash
 git status
 git log --oneline
 ```
-
-Notice: `git status` shows the changes are still staged and ready to commit. `git log` shows the commit is gone.
 
 ### 5. Re-commit with a better message
 
@@ -73,14 +89,17 @@ git commit -m "Add utility functions for data processing"
 
 ### 6. Mixed reset -- undo a commit and unstage changes
 
-Now undo this commit again, but this time the changes will be unstaged (still in your files, just not staged).
+Now undo this commit again, but this time use the default reset (mixed -- no `--soft` flag):
 
 ```bash
 git reset HEAD~1
-git status
 ```
 
-You should see the files listed under "Changes not staged for commit" -- they are modified but not staged.
+**Predict:** How is a mixed reset different from the soft reset we just did? What state will the changes be in?
+
+```bash
+git status
+```
 
 ### 7. Re-add and commit
 

@@ -27,19 +27,29 @@ git branch
 
 ### 2. Create a new branch
 
-Create a branch called `feature-login`. Then run `git branch` again. You should see two branches now, but the `*` is still on `main` -- creating a branch does not switch to it.
+Create a branch called `feature-login`.
 
 ```bash
 git branch feature-login
+```
+
+**Predict:** Before we run `git branch` to list branches -- will the `*` be on `main` or `feature-login`?
+
+```bash
 git branch
 ```
 
 ### 3. Switch to the new branch
 
-Switch to `feature-login` and confirm with `git branch`. The `*` should move to `feature-login`.
+Switch to `feature-login`.
 
 ```bash
 git switch feature-login
+```
+
+**Predict:** If we run `git branch` now, where will the `*` be?
+
+```bash
 git branch
 ```
 
@@ -56,10 +66,15 @@ git commit -m "Add login function"
 
 ### 5. Switch back to main and observe
 
-Switch back to `main` and list the files. Notice that `login.py` is gone -- it only exists on the `feature-login` branch.
+Switch back to `main`.
 
 ```bash
 git switch main
+```
+
+**Predict:** Before we list the files -- will `login.py` be there? We committed it on `feature-login`, and we just switched away.
+
+```bash
 ls
 ```
 

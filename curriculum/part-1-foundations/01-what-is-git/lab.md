@@ -47,10 +47,15 @@ git status
 
 ### 4. Make a change and observe
 
-Open the file `story.txt` and add a new line at the end (anything you want). Save the file, then run `git status` again. Notice it now shows `story.txt` as "modified." Git detected that the file in your working directory no longer matches the last commit.
+Open the file `story.txt` and add a new line at the end (anything you want).
 
 ```bash
 echo "The sun began to set over the valley." >> story.txt
+```
+
+**Predict:** Before we run `git status` -- what will it show now that we have changed a tracked file?
+
+```bash
 git status
 ```
 

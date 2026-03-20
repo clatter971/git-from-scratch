@@ -35,3 +35,11 @@ A good habit is to use `git stash push -m "description"` so you can tell your st
 
 - [Pro Git -- Stashing and Cleaning](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning) -- the definitive guide to stashing, including advanced options.
 - [Atlassian -- Git Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) -- clear explanations with examples of when and how to use stash.
+
+## Quick Quiz
+
+1. When would you use `git stash` instead of just committing your changes?
+2. What is the difference between `git stash pop` and `git stash apply`?
+3. Why is `git stash push -m "description"` better than a bare `git stash`?
+
+**After the quiz:** Want to dive deeper into any of these topics, or are you ready to move on to the lab?

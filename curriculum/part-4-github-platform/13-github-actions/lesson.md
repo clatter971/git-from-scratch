@@ -27,8 +27,8 @@ A practical pattern: most repositories have at least one workflow that runs test
 
 ## Watch
 
-- [GitHub Actions Tutorial -- Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8) -- fast-paced overview of what Actions are and how to set up your first workflow.
-- [GitHub Actions CI/CD -- TechWorld with Nana](https://www.youtube.com/watch?v=R8_veQiYBjI) -- deeper walkthrough covering CI/CD concepts and real workflow examples.
+- [5 Ways to DevOps-ify your App - GitHub Actions Tutorial -- Fireship](https://www.youtube.com/watch?v=eB0nUzAI7M8) -- fast-paced overview of what Actions are and how to set up your first workflow.
+- [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker -- TechWorld with Nana](https://www.youtube.com/watch?v=R8_veQiYBjI) -- deeper walkthrough covering CI/CD concepts and real workflow examples.
 
 ## Read More
 

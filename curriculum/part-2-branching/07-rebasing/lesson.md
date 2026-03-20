@@ -25,8 +25,8 @@ Here is the analogy: imagine you and a coworker are both writing chapters for a 
 
 ## Watch
 
-- [Git MERGE vs REBASE -- Fireship](https://www.youtube.com/watch?v=0chZFIZLR_0) (5 min) -- clear visual comparison of when to use merge vs rebase.
-- [Git Rebase -- The Net Ninja](https://www.youtube.com/watch?v=f1wnYdLEpfI) -- step-by-step walkthrough of rebasing a branch.
+- [Git MERGE vs REBASE: Everything You Need to Know -- ByteByteGo](https://www.youtube.com/watch?v=0chZFIZLR_0) -- clear visual comparison of when to use merge vs rebase.
+- [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more -- freeCodeCamp.org](https://www.youtube.com/watch?v=qsTthZi23VE) -- in-depth tutorial covering interactive rebase and history rewriting.
 
 ## Read More
 

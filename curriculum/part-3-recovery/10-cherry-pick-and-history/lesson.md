@@ -30,8 +30,8 @@ The most impressive detective tool is `git bisect`. When you know something is b
 
 ## Watch
 
-- [Git Cherry Pick -- The Net Ninja](https://www.youtube.com/watch?v=WkCnqBhCy4o) -- clear walkthrough of cherry-pick with real examples.
-- [Using Git Bisect to find bugs -- The Modern Coder](https://www.youtube.com/watch?v=P3ZR_s3NFvM) -- practical demonstration of binary search debugging.
+- [How to Use Git Cherry Pick -- GitKraken](https://www.youtube.com/watch?v=WkCnqBhCy4o) -- clear walkthrough of cherry-pick with real examples.
+- [Using Git Bisect -- Andy Van Slaars](https://www.youtube.com/watch?v=P3ZR_s3NFvM) -- practical demonstration of binary search debugging.
 
 ## Read More
 

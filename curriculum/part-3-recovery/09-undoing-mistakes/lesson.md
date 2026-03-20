@@ -29,8 +29,8 @@ There is a spectrum of "undo" in git, ranging from least destructive to most. Un
 
 ## Watch
 
-- [Git Reset vs Revert -- Fireship](https://www.youtube.com/watch?v=RIYrfkZjWmA) -- short and clear explanation of when to use reset vs. revert.
-- [13 Advanced Git Techniques and Shortcuts -- Fireship](https://www.youtube.com/watch?v=ecK3EnyGD8o) -- practical tips including undo workflows.
+- [Git & GitHub Tutorial for Beginners #7 - Undoing Things -- Net Ninja](https://www.youtube.com/watch?v=RIYrfkZjWmA) -- beginner-friendly walkthrough of undoing changes in git.
+- [Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits -- Corey Schafer](https://www.youtube.com/watch?v=FdZecVxzJbk) -- practical guide to fixing mistakes and undoing commits with real examples.
 
 ## Read More
 

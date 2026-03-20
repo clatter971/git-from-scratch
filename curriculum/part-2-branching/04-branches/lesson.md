@@ -29,8 +29,8 @@ One more concept to understand: **HEAD**. HEAD is git's "you are here" marker. I
 
 ## Watch
 
-- [Git Branches Tutorial -- Corey Schafer](https://www.youtube.com/watch?v=JTE2Fn_sCZs) -- thorough walkthrough of creating, switching, and managing branches with real examples.
-- [Learn Git Branching -- The Coding Train](https://www.youtube.com/watch?v=oPpnCh7InLY) -- visual, beginner-friendly explanation of how branching works.
+- [GIT: Working with Branches -- CodeOps Show](https://www.youtube.com/watch?v=JTE2Fn_sCZs) -- walkthrough of creating, switching, and managing branches.
+- [Branches - Git and GitHub for Poets -- The Coding Train](https://www.youtube.com/watch?v=oPpnCh7InLY) -- visual, beginner-friendly explanation of how branching works.
 
 ## Read More
 

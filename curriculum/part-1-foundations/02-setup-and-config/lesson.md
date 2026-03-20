@@ -35,8 +35,8 @@ The **GitHub CLI** (`gh`) is a command-line tool that lets you interact with Git
 
 ## Watch
 
-- [How to Set Up Git for the First Time -- Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4) (15 min) -- thorough walkthrough of initial git configuration.
-- [SSH Keys for GitHub -- Fireship](https://www.youtube.com/watch?v=WgZIv5HI44o) (4 min) -- quick visual explanation of SSH keys and how to set them up.
+- [Git Tutorial - 2 - Config Our Username and Email -- thenewboston](https://www.youtube.com/watch?v=yDntCIs-IJM) -- focused walkthrough of setting your git name, email, and other initial config.
+- [GitHub: Add an SSH Key -- SyntaxByte](https://www.youtube.com/watch?v=WgZIv5HI44o) -- step-by-step guide to generating an SSH key and adding it to GitHub.
 
 ## Read More
 

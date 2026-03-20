@@ -37,8 +37,8 @@ Conflicts are not errors. They are git asking for your opinion. They happen all 
 
 ## Watch
 
-- [Git MERGE vs REBASE -- Fireship](https://www.youtube.com/watch?v=0chZFIZLR_0) (5 min) -- clear visual comparison of merge and rebase strategies.
-- [Resolve Merge Conflicts in Git -- The Coding Train](https://www.youtube.com/watch?v=JtIX3HJKwfo) -- hands-on walkthrough of encountering and resolving a real conflict.
+- [Git MERGE vs REBASE: Everything You Need to Know -- ByteByteGo](https://www.youtube.com/watch?v=0chZFIZLR_0) -- clear visual comparison of merge and rebase strategies.
+- [Resolving Merge Conflicts - Git and GitHub for Poets -- The Coding Train](https://www.youtube.com/watch?v=JtIX3HJKwfo) -- hands-on walkthrough of encountering and resolving a real conflict.
 
 ## Read More
 

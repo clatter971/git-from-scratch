@@ -27,8 +27,8 @@ GitHub has two systems for this: **classic branch protection rules** and the new
 
 ## Watch
 
-- [GitHub Branch Protection Rules -- DevOps Toolkit](https://www.youtube.com/watch?v=ASOSEiJCRME) -- practical walkthrough of setting up protection rules and understanding each option.
-- [Protecting Your GitHub Branches -- Eddie Jaoude](https://www.youtube.com/watch?v=UQnVPBxMSEk) -- beginner-friendly guide to branch protection with real examples.
+- [GitHub branch rules (protect your git branches) -- Eddie Jaoude](https://www.youtube.com/watch?v=CNCE1gts2Yw) -- beginner-friendly walkthrough of GitHub branch protection rules with real examples.
+- [Introducing repository rules -- GitHub](https://www.youtube.com/watch?v=sdE-jlIuK1A) -- official overview of the newer rulesets feature for branch protection.
 
 ## Read More
 

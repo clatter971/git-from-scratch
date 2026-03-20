@@ -27,8 +27,8 @@ Finally, review your active sessions and authorized OAuth apps periodically. Eve
 
 ## Watch
 
-- [GitHub 2FA Setup -- GitHub](https://www.youtube.com/watch?v=hGRlE3z-gN8) -- official walkthrough of enabling two-factor authentication on your GitHub account.
-- [SSH Key Authentication -- NetworkChuck](https://www.youtube.com/watch?v=vpk_1gldOAE) -- beginner-friendly explanation of how SSH keys work and how to set them up.
+- [How to enable 2FA on GitHub -- 2FAS](https://www.youtube.com/watch?v=RaRSdVjV018) -- walkthrough of enabling two-factor authentication on your GitHub account.
+- [Generate a New SSH Key and Add it to your GitHub -- Geek Forever](https://www.youtube.com/watch?v=X40b9x9BFGo) -- step-by-step guide to generating an SSH key and connecting it to GitHub.
 
 ## Read More
 

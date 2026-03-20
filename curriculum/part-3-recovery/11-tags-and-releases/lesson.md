@@ -31,8 +31,8 @@ The convention for naming tags is **semantic versioning**: `vMAJOR.MINOR.PATCH` 
 
 ## Watch
 
-- [Git Tags -- The Net Ninja](https://www.youtube.com/watch?v=govmXpDGLpo) -- practical walkthrough of creating and managing tags.
-- [Semantic Versioning Explained -- Fireship](https://www.youtube.com/watch?v=Ob9llA_QhQY) -- short explanation of the v1.2.3 convention and why it matters.
+- [Git Tags - what, why, when and how -- Automation Step by Step](https://www.youtube.com/watch?v=govmXpDGLpo) -- practical walkthrough of creating and managing tags.
+- [How to Manage Releases with Semantic Versioning and Git Tags -- GitKraken](https://www.youtube.com/watch?v=4wPjo5C-v8Y) -- covers semantic versioning conventions and using tags for releases.
 
 ## Read More
 

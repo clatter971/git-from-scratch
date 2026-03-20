@@ -27,8 +27,8 @@ Before going public, run a thorough audit: search the history for secrets with `
 
 ## Watch
 
-- [Open Source Best Practices -- Fireship](https://www.youtube.com/watch?v=yzeVMecydCE) -- fast-paced overview of what to do before open-sourcing a project.
-- [Git Filter-Repo -- GitKraken](https://www.youtube.com/watch?v=z3b5V5GCwK4) -- how to use git-filter-repo to rewrite history and remove sensitive data.
+- [GitHub Essentials: Must-Have Files for Every Project -- Science-WHYS](https://www.youtube.com/watch?v=tW1Ce1wVaz4) -- covers the essential files (README, LICENSE, .gitignore) every project needs before going public.
+- [How to Remove Secrets from Git History -- Claudio Bernasconi](https://www.youtube.com/watch?v=z8tIOYg_oho) -- walkthrough of removing sensitive data from git history.
 
 ## Read More
 

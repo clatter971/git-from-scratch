@@ -28,8 +28,8 @@ A good habit is to use `git stash push -m "description"` so you can tell your st
 
 ## Watch
 
-- [Git Stash -- The Net Ninja](https://www.youtube.com/watch?v=DeU6opFU_zw) -- practical walkthrough of stashing, listing, and popping in a real workflow.
-- [Git stash in 5 minutes -- Colt Steele](https://www.youtube.com/watch?v=lH3GkMoQ2gM) -- concise tutorial covering the most common stash operations.
+- [Git STASH Explained in Simple Words -- Academind](https://www.youtube.com/watch?v=DeU6opFU_zw) -- practical walkthrough of stashing, listing, and popping in a real workflow.
+- [Git Tutorial: Using the Stash Command -- Corey Schafer](https://www.youtube.com/watch?v=KLEDKgMmbBI) -- covers stash, pop, apply, and list with clear examples.
 
 ## Read More
 

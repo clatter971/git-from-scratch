@@ -35,8 +35,8 @@ Commits should be **atomic** -- each commit should represent one logical change.
 
 ## Watch
 
-- [Git Tutorial for Beginners -- Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4) (30 min) -- detailed walkthrough of the basic git workflow with real examples.
-- [Git & GitHub Crash Course -- Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (32 min) -- fast-paced introduction covering all the essentials.
+- [Git Tutorial for Beginners: Command-Line Fundamentals -- Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4) (30 min) -- detailed walkthrough of the basic git workflow with real examples.
+- [Git & GitHub Crash Course For Beginners -- Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (32 min) -- fast-paced introduction covering all the essentials.
 
 ## Read More
 

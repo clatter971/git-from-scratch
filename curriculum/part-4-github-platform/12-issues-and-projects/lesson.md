@@ -29,8 +29,8 @@ One important pattern: when you start work on an issue, create a branch named af
 
 ## Watch
 
-- [GitHub Issues and Projects -- GitHub](https://www.youtube.com/watch?v=oPQgFxHcjAw) -- official overview of how issues and projects work together for planning.
-- [GitHub Project Management -- codeSTACKr](https://www.youtube.com/watch?v=RXEy6CFu9Hk) -- practical walkthrough of setting up project boards and workflows.
+- [GitHub Project Management - Create GitHub Project Board & Automations -- goobar](https://www.youtube.com/watch?v=oPQgFxHcjAw) -- walkthrough of how GitHub project boards and automations work together for planning.
+- [GitHub Project Management -- Benjamin Garrard](https://www.youtube.com/watch?v=RXEy6CFu9Hk) -- practical walkthrough of setting up project boards and workflows.
 
 ## Read More
 

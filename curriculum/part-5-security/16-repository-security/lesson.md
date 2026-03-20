@@ -27,8 +27,8 @@ SECURITY.md is a simple but important file that tells people how to report vulne
 
 ## Watch
 
-- [GitHub Security Features -- GitHub](https://www.youtube.com/watch?v=5xaGnFGDqPY) -- overview of Dependabot, secret scanning, and code scanning working together.
-- [Dependabot Explained -- DevOps Toolkit](https://www.youtube.com/watch?v=BRMIFEaGg-A) -- practical walkthrough of configuring Dependabot for dependency updates.
+- [Fix Open Source Vulnerability AUTOMATICALLY with Dependabot -- CoderDave](https://www.youtube.com/watch?v=ijPoIfQWypQ) -- practical walkthrough of using Dependabot to detect and fix vulnerable dependencies.
+- [Introduction to secret leaks and getting started with GitHub Secret Protection -- GitHub](https://www.youtube.com/watch?v=vMhDkt5JNN0) -- official overview of secret scanning and push protection.
 
 ## Read More
 

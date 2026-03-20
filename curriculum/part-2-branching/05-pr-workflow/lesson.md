@@ -29,7 +29,7 @@ A few practical details: when you push a branch for the first time, you use `git
 ## Watch
 
 - [GitHub Pull Request in 100 Seconds -- Fireship](https://www.youtube.com/watch?v=8lGpZkjnkt4) (2 min) -- fast overview of what PRs are and why they exist.
-- [How to Make a Pull Request -- Corey Schafer](https://www.youtube.com/watch?v=e3bjQX9jIBk) -- detailed walkthrough of forking, branching, and creating a real PR.
+- [What is Pull Request? -- codebasics](https://www.youtube.com/watch?v=e3bjQX9jIBk) -- beginner-friendly explanation of what pull requests are and how to create one.
 
 ## Read More
 

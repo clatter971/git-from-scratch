@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Personal progress (created from progress.template.md)
+progress.md
+
+# Claude Code local files
+.claude/session-log.md
+.claude/settings.local.json
+curriculum/**/.claude/
+docs/

@@ -9,8 +9,8 @@ Thumbs.db
 # Personal progress (created from progress.template.md)
 progress.md
 
-# Claude Code local files
-.claude/session-log.md
-.claude/settings.local.json
+# Claude Code
+CLAUDE.md
+.claude/
 curriculum/**/.claude/
 docs/

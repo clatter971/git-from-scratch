@@ -56,7 +56,7 @@ The setup scripts and lab exercises use **bash**. This works out of the box on m
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/NormlT/git-from-scratch.git
+git clone https://github.com/clatter971/git-from-scratch.git
 cd git-from-scratch
 ```
 
@@ -154,7 +154,7 @@ This course was built with [Claude Code](https://claude.ai/claude-code) -- both 
 
 ## Contributing
 
-Found a typo, broken link, or have an idea for a new module? Open an [issue](https://github.com/NormlT/git-from-scratch/issues) or submit a pull request.
+Found a typo, broken link, or have an idea for a new module? Open an [issue](https://github.com/clatter971/git-from-scratch/issues) or submit a pull request.
 
 ## License
 
